@@ -3,7 +3,7 @@
 **Desenvolvedor de Software | Apaixonado por Tecnologia | Criador de Soluções**
 
 🔭 Atualmente trabalhando em: 
-- Projeto da PAP utilizando **ASP.NET**, **SQL**, **JavaScript**, **HTML/CSS**.
+- Projeto da PAP utilizando **ASP.NET**, **SQL**, **JavaScript**, **HTML/CSS**, **C#**.
 - Explorando novos conceitos de **bases de dados** (relacionais e não-relacionais).
 
 💼 Minhas habilidades:
