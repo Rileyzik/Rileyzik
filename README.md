@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Riley!
 
-![GitHub Cover](https://via.placeholder.com/1200x300?text=Welcome+to+my+GitHub+Profile)
+![GitHub Cover]( https://via.placeholder.com/1200x300?text=Software+Development+Journey)
 
 **Software Developer | Passionate about Technology | Solution Creator**
 
