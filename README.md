@@ -17,7 +17,7 @@ I'm a developer passionate about creating innovative and efficient solutions. Wi
   - ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 ---
 ### 🚀 Featured Projects
-- **[PAP Project](repository-link)**:
+- **[PAP Project]([repository-link](https://github.com/Rileyzik/Pap_2025))**:
 ---
 ### 🌱 Currently Learning
 - Advanced Python frameworks and data analysis techniques
